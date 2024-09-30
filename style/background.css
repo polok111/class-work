@@ -1,0 +1,8 @@
+.up{
+     color: rgb(37, 255, 8);
+   background-image:url(../image/backgd.jpg.jpg) ;
+    height: 500px;
+    background-size:400px;
+    background-repeat: no-repeat;
+    background-position: center;
+}

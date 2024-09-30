@@ -1,0 +1,20 @@
+div{
+    border: 2px solid red;
+    background-color: blueviolet;
+    color:gold;
+    font-weight: 900;
+    font-size:25px;
+    width: 50%;
+    border-radius: 10px;
+    margin:50px 20px 20px 50px;
+}
+#fox{
+    color: darkgreen;
+}
+span{
+    color: crimson;
+    border: 1px dashed blue;
+    height: 50px;
+    width: 120px;
+    display: inline-block;
+    }

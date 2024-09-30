@@ -1,0 +1,20 @@
+.hop{
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 10px 10px 10px blueviolet;
+    margin-top: 20px;
+}
+#dog{
+    background-color: bisque;
+}
+.raw{
+    font-family:fantasy;
+}
+.hop-beta{
+     /* display: none;  */
+     visibility: hidden;
+}
